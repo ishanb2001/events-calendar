@@ -1,39 +1,57 @@
-.vostok-event{
-  background-color: #f2f2f2;
+html{
+  font-family: Merriweather, serif;
 }
 
-.event-remembrance{
+.vostok-event {
+  background-color: #f2f2f2;
+  border: #51603f;
+  border-radius: 8px;
+}
+
+.event-remembrance {
   background-color: #f2bcbc;
+  border: #b92828;
+  border-radius: 8px;
 }
 
-.event-orbit{
+.event-orbit {
   background-color: #f2f2f2;
+  border: #666;
+  border-radius: 8px;
 }
 
-.event-surtsey{
+.event-surtsey {
+  background-color: #991919;
+  border: #6b7e54;
+  border-radius: 8px;
+}
+
+.event-robert {
   background-color: #d1e0bf;
+  border: #333;
+  border-radius: 8px;
 }
 
-.event-robert{
-  background-color: #d1e0bf;
-}
-
-.event-india{
+.event-india {
   background-color: #f2f2f2;
-}
-
-.center-text {
-  text-align: center;
+  border: #666;
+  border-radius: 8px;
 }
 
 .event-doctor {
-  background-color: #d2d6f0;
+  background-color: #1d38da;
+  border: #ccc;
+  border-radius: 8px;
 }
 
 .event-exploror {
   background-color: #d2d6f0;
+  border: #d2d6f0;
+  border-radius: 8px;
 }
 
 .event-explorortwo {
-  background-color: #f2f2f2;
+  background-color: #38448e;
+  border: #666;
+  border-radius: 8px;
 }
